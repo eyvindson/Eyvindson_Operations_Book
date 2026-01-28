@@ -134,7 +134,7 @@ If you use or adapt this code in academic work, please cite the corresponding bo
 
 Kyle Eyvindson  
 University of Helsinki  
-kyle.eyvindson@helsinki.fi
+kyle.eyvindson [a] helsinki.fi
 
 ---
 
